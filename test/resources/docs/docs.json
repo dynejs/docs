@@ -1,0 +1,10 @@
+{
+    "First": {
+        "Child": {
+            "A letter": "a.md",
+            "B letter": "b.md"
+        },
+        "C letter": "c.md"
+    },
+    "Root": "in-root.md"
+}
